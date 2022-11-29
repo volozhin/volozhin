@@ -10,6 +10,7 @@
 
 [<img src="https://user-images.githubusercontent.com/110378801/204175069-e236bd03-d163-4df5-a1e3-42f68cb19c23.png" width="40" height="40" />](https://instagram.com/volozhin)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/VK_Logo.png" width="40" height="40" />](https://vk.com/volozhin)
+[<img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" width="40" height="40" />](https://www.codewars.com/users/volozhin)
 
 Email - volozhin_stan@mail.ru
 
